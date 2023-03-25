@@ -1,9 +1,9 @@
 Hi there 👋
 
-🔭 I’m currently studying Business Analytics at Northeastern University. I use SQL, Tableau, R, Excel, & Python .
+🔭 I am a Business Analytics student at Northeastern University and a graduate of the Data Science and Analytics bootcamp at Georgia Tech.
 
-🌱 I’m currently learning Google Analytics and SAS.
+🌱 My skillset includes SQL, Tableau, R, Excel, and Python. Currently, I am expanding my knowledge by learning Google Analytics and SAS.
 
-👯 I’m looking for a summer intern/ full-time job in Business Intelligence/Analytics.
+👯 I am seeking a summer internship or full-time position in Business Intelligence/Analytics. 
 
 📫 How to reach me: [[LinkedIN]](https://www.linkedin.com/in/kaixinyang/)
