@@ -4,6 +4,6 @@ Hi there 👋
 
 🌱 My skillset includes SQL, Tableau, R, Excel, and Python. Currently, I am expanding my knowledge by learning Google Analytics and SAS.
 
-👯 I am seeking a summer internship or full-time position in Business Intelligence/Analytics. 
+👯 I am seeking a fall internship or full-time position in Business Intelligence/Analytics. 
 
 📫 How to reach me: [[LinkedIN]](https://www.linkedin.com/in/kaixinyang/)
