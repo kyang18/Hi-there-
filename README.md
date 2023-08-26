@@ -4,6 +4,6 @@ Hi there 👋
 
 🌱 My skillset includes SQL, Tableau, R, Excel, and Python. Currently, I am interning as market research analyst and I gained the certification of  Google Analytics 4.
 
-👯 I am seeking a fall internship or full-time position in Business Intelligence/Analytics. 
+👯 I am seeking a full-time position in Business Intelligence/Analytics. 
 
 📫 How to reach me: [[LinkedIN]](https://www.linkedin.com/in/kaixinyang/)
