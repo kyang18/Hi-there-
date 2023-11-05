@@ -7,3 +7,6 @@ Hi there 👋
 👯 I am seeking a full-time position in Business Intelligence/Analytics. 
 
 📫 How to reach me: [[LinkedIN]](https://www.linkedin.com/in/kaixinyang/)
+
+My Tableau: https://public.tableau.com/app/profile/kaixin.yang/vizzes
+
