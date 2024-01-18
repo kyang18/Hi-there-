@@ -1,6 +1,6 @@
-Hi there 👋
+![image](https://github.com/kyang18/kyang18/assets/76982420/e3f819c3-6531-4a24-8109-edd2e6fff3c0)Hi there 👋
 
-🔭 I am a Business Analytics student at Northeastern University and a graduate of the Data Science and Analytics bootcamp at Georgia Tech.
+🔭 My name is Kaixin Yang and I recently graduated from Northeastern University with a Master's in Business Analytics, complemented by a Certificate in Data Science and Analytics from Georgia Tech. 
 
 🌱 My skillset includes SQL, Tableau, R, Excel, and Python.
 
